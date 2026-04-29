@@ -8,3 +8,8 @@ __pycache__/
 # Virtual env
 venv/
 .env
+
+# SQLite DB
+*.db
+*.db-shm
+*.db-wal
